@@ -10,7 +10,7 @@
         <samp>
           <a href="https://www.google.com/search?q=fnujimmy">「 Google Me 」</a> 
                 <br>
-                「 I am a cybersecurity researcher and expereince with implementing security controls to strengthen the security posture for industries. I am also a full stack developer developing applications using Microsoft and Cloud tools and technology 」
+                「 I am a cybersecurity researcher and expereince with implementing security controls to strengthen the security posture for industries. I am also a full stack developer developing applications using Microsoft and Cloud tools and technology. I am currently working for Deloitte US 」
                 <br>
                 <br>
         </samp>
